@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',Verdana, sans-serif ;
+}
+.bluedot{
+        border: 1px dotted blue;
+
+}
+.op{
+    border: 1px solid #2f5972;
+    border-radius: 10px;
+    display:flex;
+    width: 400px;
+    padding: 20px;
+    justify-content: space-around;
+   margin: 0  auto;
+    text-align: center;
+    color: rgb(12, 15, 23);
+    background-color: #7490a1;
+    border-bottom: 8px solid #2f5972;
+    
+
+}
+.ty{
+    width:150px;
+    height:165px;
+    border: 1px solid #2f5972;
+    border-radius: 8px;
+}
